@@ -1,4 +1,3 @@
-# 🛥️Titanic
 # 🚢 Análise de Dados do Titanic  
 
 Este projeto teve como objetivo explorar e analisar o famoso conjunto de dados do **Titanic**, aplicando técnicas de **análise descritiva e diagnóstica** para extrair insights relevantes sobre os fatores que influenciaram a taxa de sobrevivência dos passageiros.  
