@@ -1,6 +1,6 @@
 # 🚢 Análise de Dados do Titanic  
 
-Este projeto teve como objetivo explorar e analisar o famoso conjunto de dados do Titanic, aplicando técnicas de **análise descritiva, diagnóstica e Machine Learning** para extrair insights relevantes sobre os fatores que influenciaram a taxa de sobrevivência dos passageiros. O dataset é baseado nos registros do navio **:contentReference[oaicite:0]{index=0}**.
+Este projeto teve como objetivo explorar e analisar o famoso conjunto de dados do Titanic, aplicando técnicas de **análise descritiva, diagnóstica e Machine Learning** para extrair insights relevantes sobre os fatores que influenciaram a taxa de sobrevivência dos passageiros. O dataset é baseado nos registros do navio.
 
 ---
 
